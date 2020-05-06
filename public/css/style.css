@@ -1,0 +1,186 @@
+body{
+	background-color:#F7F8FA;}
+.topbar {
+	background-color: #316DC3;
+}
+.sicon {
+	color: #FFFFFF;
+}
+.sicon:hover {
+	color: #8DC63F;
+}
+.p1 {
+	color: #FFFFFF;
+}
+.a {
+	display: table;
+	margin: auto;
+}
+.btn1 {
+	background-color: #F5F5F5;
+}
+.logo {
+	height: 60px;
+	width: 250px;
+}
+.b a {
+	color: #000000;
+	text-decoration: none;
+}
+.nav-link:hover {
+	background-color: #316dc3;
+	color: white !important;
+	border-radius: 25px;
+}
+.dropdown-item:hover {
+	background-color: #316dc3 !important;
+	color: white !important;
+}
+.dropdown:hover .dropdown-menu{
+	display:block;}
+
+.sli {
+	height: 500px;
+}
+.img {
+	width: 100%;
+	height: 100%;
+}
+.news {
+	height: 30px;
+	background-color: #316DC3;
+	color: #FFFFFF;
+}
+h1 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-weight: 900;
+}
+.pera {
+	height: 450px;
+	width: 85%;
+	text-align: justify;
+	display: table;
+	margin: auto;
+	color:#4A4A4A;
+}
+.num {
+	color: #FFFFFF;
+	font-size: 50px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.txt {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.month {
+	font-size: 18px;
+	color: #00FA27;
+}
+.main {
+	height: 200px;
+	width: 100%;
+	position: absolute;
+	top: 40px;
+}
+.innerbox {
+	height: 200px
+}
+.b1 {
+	width: 100%;
+	height: 180px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	display: table;
+	margin: auto;
+}
+.icn {
+	display: table;
+	margin: auto
+}
+.b1 h5 {
+	color: #316DC3;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-weight: bolder
+}
+.hrow {
+	display: inline;
+}
+.b3 {
+	border: 1px solid #FF0004;
+	height: 300px;
+}
+.b4 {
+	height: 50px;
+	border: 2px solid #000000;
+}
+.h{
+	height:90px;
+	}
+.box1{
+	width:100%;
+	height:60px;
+	background-color:#F2F5FB;
+	border:1px solid #E0E0E0;}	
+.iconbox{
+	width:20%;
+	height:50px;
+	}
+.name{
+	width:80%;
+	height:50px;
+	}	
+.name h1{
+	font-size:20px;
+	color: #4E64A7;}	
+
+
+.img-fluid:hover {
+	transform: scale(1.1, 1.1);
+	transition: 1s
+}
+.ftr {
+	background-color: #25272E;
+}
+.sub {
+	color: #4E64A7;
+	font-size: 25px;
+	font-weight: bold;
+}
+.fi {
+	color: #4E6632;
+}
+.ft {
+	color: #C3C3C3;
+}
+.un {
+	list-style: none;
+	font-size: 14px;
+}
+.ficon {
+	width: 8%;
+	height: 30px;
+	background-color: #316DD9;
+	border-radius: 100%;
+}
+.ficon {
+	color: #FFFFFF;
+	display: table;
+	margin: auto;
+}
+.sty {
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-weight: bolder;
+}
+.phn {
+	color: #3D6B08
+}
+.last {
+	background-color: #316DD9;
+}
+.lineclr {
+	color: #427900;
+}
+.main {
+	border: 2px solid #000000
+}
